@@ -11,6 +11,7 @@ Image:
 2.[baseAdapter](https://github.com/hongyangAndroid/baseAdapter)
 
 Ps：Android 万能的Adapter for ListView,RecyclerView,GridView等，支持多种Item类型的情况。
+---来自hongyangAndroid
 
 3.[AdapterDelegates](https://github.com/sockeqwe/AdapterDelegates)
 
